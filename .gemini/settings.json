@@ -1,0 +1,13 @@
+{
+  "security": {
+    "auth": {
+      "selectedType": "gemini-api-key"
+    }
+  },
+  "model": {
+    "name": "gemini-2.5-flash"
+  },
+  "context": {
+    "fileName": ["AGENTS.md", "CLAUDE.md", "GEMINI.md"]
+  }
+}

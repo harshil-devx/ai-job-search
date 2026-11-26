@@ -1,0 +1,6 @@
+description = "Batch-score scraped postings into a ranked shortlist"
+prompt = """
+Follow the canonical workflow specification in `.claude/commands/rank.md` (along with `AGENTS.md` and `CLAUDE.md`).
+
+User arguments: {{args}}
+"""

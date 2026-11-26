@@ -1,0 +1,6 @@
+description = "Search job portals for postings that match your profile"
+prompt = """
+Follow the canonical workflow specification in `.claude/skills/job-scraper/SKILL.md` (along with `AGENTS.md` and `CLAUDE.md`).
+
+User arguments: {{args}}
+"""

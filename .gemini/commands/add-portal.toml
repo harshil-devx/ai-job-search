@@ -1,0 +1,6 @@
+description = "Generate a search skill for a job board in your market"
+prompt = """
+Follow the canonical workflow specification in `.claude/commands/add-portal.md` (along with `AGENTS.md` and `CLAUDE.md`).
+
+User arguments: {{args}}
+"""

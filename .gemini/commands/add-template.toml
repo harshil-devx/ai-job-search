@@ -1,0 +1,6 @@
+description = "Register your own CV or cover letter template"
+prompt = """
+Follow the canonical workflow specification in `.claude/commands/add-template.md` (along with `AGENTS.md` and `CLAUDE.md`).
+
+User arguments: {{args}}
+"""

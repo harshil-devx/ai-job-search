@@ -1,0 +1,6 @@
+description = "Map your skill gaps and build a prioritized learning plan"
+prompt = """
+Follow the canonical workflow specification in `.claude/skills/upskill/SKILL.md` (along with `AGENTS.md` and `CLAUDE.md`).
+
+User arguments: {{args}}
+"""

@@ -1,0 +1,6 @@
+description = "Build your candidate profile from documents, pasted CV, or interview"
+prompt = """
+Read and strictly follow the canonical workflow specification in `.claude/commands/setup.md` (along with `CLAUDE.md` and any referenced methodology files under `.claude/skills/`).
+
+User arguments: {{args}}
+"""

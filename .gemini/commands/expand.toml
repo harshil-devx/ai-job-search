@@ -1,0 +1,6 @@
+description = "Add competencies found in your public profiles and course syllabi"
+prompt = """
+Follow the canonical workflow specification in `.claude/commands/expand.md` (along with `AGENTS.md` and `CLAUDE.md`).
+
+User arguments: {{args}}
+"""

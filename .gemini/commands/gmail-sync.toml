@@ -1,0 +1,6 @@
+description = "Propose application status updates from your Gmail"
+prompt = """
+Follow the canonical workflow specification in `.claude/commands/gmail-sync.md` (along with `AGENTS.md` and `CLAUDE.md`).
+
+User arguments: {{args}}
+"""

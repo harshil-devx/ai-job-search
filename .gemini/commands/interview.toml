@@ -1,0 +1,6 @@
+description = "Build a stage-specific interview prep pack and run a mock interview"
+prompt = """
+Follow the canonical workflow specification in `.claude/commands/interview.md` (along with `AGENTS.md` and `CLAUDE.md`).
+
+User arguments: {{args}}
+"""

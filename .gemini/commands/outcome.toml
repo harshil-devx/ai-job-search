@@ -1,0 +1,6 @@
+description = "Record application results, archive materials, and draft follow-ups"
+prompt = """
+Follow the canonical workflow specification in `.claude/commands/outcome.md` (along with `AGENTS.md` and `CLAUDE.md`).
+
+User arguments: {{args}}
+"""

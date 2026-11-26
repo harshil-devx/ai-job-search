@@ -1,0 +1,6 @@
+description = "Publish a read-only view of your pipeline to Notion"
+prompt = """
+Follow the canonical workflow specification in `.claude/commands/notion-sync.md` (along with `AGENTS.md` and `CLAUDE.md`).
+
+User arguments: {{args}}
+"""

@@ -1,0 +1,6 @@
+description = "Wipe profile data or documents folder"
+prompt = """
+Follow the canonical workflow specification in `.claude/commands/reset.md` (along with `AGENTS.md` and `CLAUDE.md`).
+
+User arguments: {{args}}
+"""

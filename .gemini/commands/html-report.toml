@@ -1,0 +1,6 @@
+description = "Generate an offline HTML dashboard of your applications"
+prompt = """
+Follow the canonical workflow specification in `.claude/commands/html-report.md` (along with `AGENTS.md` and `CLAUDE.md`).
+
+User arguments: {{args}}
+"""

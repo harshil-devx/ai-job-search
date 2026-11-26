@@ -1,0 +1,6 @@
+description = "Evaluate fit, then draft, review, and compile a tailored CV and cover letter"
+prompt = """
+Follow the canonical workflow specification in `.claude/commands/apply.md` (along with `AGENTS.md`, `CLAUDE.md`, and `.claude/skills/job-application-assistant/SKILL.md`).
+
+User arguments: {{args}}
+"""
